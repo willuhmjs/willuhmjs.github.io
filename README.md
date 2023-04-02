@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-this is an auto generated list of my repositories. check out [https://willuhmjs.com](https://willuhmjs.com).
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com).
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
