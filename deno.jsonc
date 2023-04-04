@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "grab": "deno run --allow-net=api.github.com --allow-write=README.md --allow-env main.ts"
+  }
+}

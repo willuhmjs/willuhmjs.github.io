@@ -22,5 +22,5 @@ jobs:
         with:
           deno-version: v1.x
       - name: Run deno grab action
-        run: deno run --allow-net=api.github.com --allow-write=README.md --allow-env main.ts
+        run: deno task grab
       - uses: stefanzweifel/git-auto-commit-action@v4
