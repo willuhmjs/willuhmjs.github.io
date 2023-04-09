@@ -30,7 +30,7 @@ function processRepos(repos: Repo[]): string {
   console.log(`Processing ${repos.length} repos...`);
   const sorted = [...repos].sort((a, b) => b.stargazers_count - a.stargazers_count);
 
-  let markdown = `# willuhmjs.github.io\n\nThis is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated ${new Date().toISOString()} \n\n## Repositories\n';
+  let markdown = `# willuhmjs.github.io\n\nThis is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated ${new Date().toISOString()} \n\n## Repositories\n`;
   for (const repo of sorted) {
     const { name, description, html_url, stargazers_count, homepage } = repo;
 
