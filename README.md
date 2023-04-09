@@ -33,6 +33,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [touch-grass (1)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhm-js.github.io/touch-grass)) - An app to touch grass from the comfort of your own living space.
 - [Universus (1)](https://github.com/willuhmjs/Universus)  - Universus is a website that allows users to download any YouTube video.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
+- [Cura (0)](https://github.com/willuhmjs/Cura)  - 3D printer / slicing GUI built on top of the Uranium framework
 - [GCC2023WebDesign (0)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
 - [hintable (0)](https://github.com/willuhmjs/hintable) ([homepage](https://willuhmjs.github.io/hintable/)) - An exciting word guessing game.
 - [joeldesante (0)](https://github.com/willuhmjs/joeldesante)  - No description provided.
