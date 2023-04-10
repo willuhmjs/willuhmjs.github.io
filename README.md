@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-09T02:55:29.456Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-10T01:19:14.730Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -9,7 +9,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gotquestions (2)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
 - [OceanFacts (2)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
-- [webpage (2)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - A personal website that does not reflect my skill whatsoever. Now with themes!
+- [webpage (2)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [AlphaAndOmega (1)](https://github.com/willuhmjs/AlphaAndOmega) ([homepage](https://willuhm-js.github.io/AlphaAndOmega)) - A web art project showcasing the power of the Alpha and the Omega.
 - [blog-template (1)](https://github.com/willuhmjs/blog-template)  - 📓 A modern, light-theme blog that uses MongoDB and Bootstrap styling.
 - [BlogGPT (1)](https://github.com/willuhmjs/BlogGPT)  - A tech blog with articles written by OpenAI's GPT-3 model.
@@ -33,10 +33,13 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [touch-grass (1)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhm-js.github.io/touch-grass)) - An app to touch grass from the comfort of your own living space.
 - [Universus (1)](https://github.com/willuhmjs/Universus)  - Universus is a website that allows users to download any YouTube video.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
+- [co-authored-by (0)](https://github.com/willuhmjs/co-authored-by) ([homepage](https://leodog896.github.io/co-authored-by/)) - generate co-authored-by descriptions & emails for authors
 - [Cura (0)](https://github.com/willuhmjs/Cura)  - 3D printer / slicing GUI built on top of the Uranium framework
 - [GCC2023WebDesign (0)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
 - [hintable (0)](https://github.com/willuhmjs/hintable) ([homepage](https://willuhmjs.github.io/hintable/)) - An exciting word guessing game.
+- [hyprland-website (0)](https://github.com/willuhmjs/hyprland-website)  - The hyprland.org website
 - [joeldesante (0)](https://github.com/willuhmjs/joeldesante)  - No description provided.
 - [printstimate (0)](https://github.com/willuhmjs/printstimate)  - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
+- [webpage-1 (0)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [willuhmjs (0)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (0)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
