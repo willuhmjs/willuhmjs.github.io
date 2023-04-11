@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-10T01:19:14.730Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-11T01:19:58.988Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -18,7 +18,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [DynamicClock (1)](https://github.com/willuhmjs/DynamicClock)  - A clock that dynamically changes theme based on the time.
 - [empty (1)](https://github.com/willuhmjs/empty)  - An empty repo!
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
-- [Harvey (1)](https://github.com/willuhmjs/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
 - [hyperpass (1)](https://github.com/willuhmjs/hyperpass) ([homepage](https://willuhmjs.github.io/hyperpass/)) - a secure browser-only password generator.
 - [pi-anywhere (1)](https://github.com/willuhmjs/pi-anywhere)  - pi-anywhere is an app designed to allow connection between your Raspberry Pi and Discord.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
@@ -36,9 +35,11 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [co-authored-by (0)](https://github.com/willuhmjs/co-authored-by) ([homepage](https://leodog896.github.io/co-authored-by/)) - generate co-authored-by descriptions & emails for authors
 - [Cura (0)](https://github.com/willuhmjs/Cura)  - 3D printer / slicing GUI built on top of the Uranium framework
 - [GCC2023WebDesign (0)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
+- [Harvey (0)](https://github.com/willuhmjs/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
 - [hintable (0)](https://github.com/willuhmjs/hintable) ([homepage](https://willuhmjs.github.io/hintable/)) - An exciting word guessing game.
 - [hyprland-website (0)](https://github.com/willuhmjs/hyprland-website)  - The hyprland.org website
 - [joeldesante (0)](https://github.com/willuhmjs/joeldesante)  - No description provided.
+- [learnrust (0)](https://github.com/willuhmjs/learnrust)  - No description provided.
 - [printstimate (0)](https://github.com/willuhmjs/printstimate)  - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [webpage-1 (0)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [willuhmjs (0)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
