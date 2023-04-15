@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-14T01:19:59.060Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-15T01:22:22.198Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -9,6 +9,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gotquestions (2)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
 - [OceanFacts (2)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
+- [printstimate (2)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [webpage (2)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [AlphaAndOmega (1)](https://github.com/willuhmjs/AlphaAndOmega) ([homepage](https://willuhm-js.github.io/AlphaAndOmega)) - A web art project showcasing the power of the Alpha and the Omega.
 - [blog-template (1)](https://github.com/willuhmjs/blog-template)  - 📓 A modern, light-theme blog that uses MongoDB and Bootstrap styling.
@@ -28,7 +29,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [joeldesante (1)](https://github.com/willuhmjs/joeldesante)  - No description provided.
 - [learnrust (1)](https://github.com/willuhmjs/learnrust)  - No description provided.
 - [pi-anywhere (1)](https://github.com/willuhmjs/pi-anywhere)  - pi-anywhere is an app designed to allow connection between your Raspberry Pi and Discord.
-- [printstimate (1)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
 - [revelation214 (1)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhm-js.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [RickHider (1)](https://github.com/willuhmjs/RickHider) ([homepage](https://rickhider.willuhmdemo.repl.co/)) - A website for generating hidden rickrolls with custom metadata.
