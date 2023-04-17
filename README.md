@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-16T01:25:31.641Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-17T01:21:21.151Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -45,3 +45,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [willuhmjs (1)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (1)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
+- [publicdb (0)](https://github.com/willuhmjs/publicdb)  - No description provided.
