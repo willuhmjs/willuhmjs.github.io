@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-19T01:21:57.916Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-20T01:18:59.811Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -44,4 +44,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
-- [publicdb (0)](https://github.com/willuhmjs/publicdb)  - No description provided.
+- [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
