@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-20T01:18:59.811Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-21T01:19:32.317Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -34,7 +34,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [pi-anywhere (1)](https://github.com/willuhmjs/pi-anywhere)  - pi-anywhere is an app designed to allow connection between your Raspberry Pi and Discord.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
 - [revelation214 (1)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhm-js.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
-- [RickHider (1)](https://github.com/willuhmjs/RickHider) ([homepage](https://rickhider.willuhmdemo.repl.co/)) - A website for generating hidden rickrolls with custom metadata.
 - [Salutation (1)](https://github.com/willuhmjs/Salutation)  - Salutation is a highly customizable greetings bot to welcome new members to your server. Every aspect of the greeting image can be changed, resulting in a truly unique welcome.
 - [SmileyDown (1)](https://github.com/willuhmjs/SmileyDown) ([homepage](https://willuhmjs.github.io/SmileyDown/)) - A compiled markdown language that uses emoticons.
 - [tdih (1)](https://github.com/willuhmjs/tdih) ([homepage](https://willuhmjs.github.io/tdih/)) - A website that displays notable births, deaths, events, and holidays for the current date using the Wikipedia API.
@@ -45,3 +44,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
+- [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - No description provided.
