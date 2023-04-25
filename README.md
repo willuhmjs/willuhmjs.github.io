@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-24T01:22:36.925Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-04-25T01:22:28.045Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -43,5 +43,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
+- [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
+- [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
-- [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - No description provided.
+- [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
