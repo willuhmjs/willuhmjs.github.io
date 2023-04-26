@@ -11,7 +11,7 @@ async function getRepos(): Promise<Repo[]> {
   let page = 1;
   let repos: Repo[] = [];
 
-  while (true) {
+  do {
     const response = await fetch(`https://api.github.com/users/willuhmjs/repos?page=${page}&per_page=100`);
     const newRepos = await response.json();
 
@@ -21,10 +21,11 @@ async function getRepos(): Promise<Repo[]> {
 
     repos = [...repos, ...newRepos];
     page++;
-  }
+  } while (true);
 
   return repos;
 }
+
 
 function processRepos(repos: Repo[]): string {
   console.log(`Processing ${repos.length} repos...`);
