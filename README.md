@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-05-11T01:21:09.485Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-05-12T01:21:02.625Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -23,7 +23,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [doke (1)](https://github.com/willuhmjs/doke)  - code decoder
 - [DynamicClock (1)](https://github.com/willuhmjs/DynamicClock)  - A clock that dynamically changes theme based on the time.
 - [empty (1)](https://github.com/willuhmjs/empty)  - An empty repo!
-- [evade (1)](https://github.com/willuhmjs/evade)  - A beautiful and deployable web proxy.
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
 - [GCC2023WebDesign (1)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
 - [Harvey (1)](https://github.com/willuhmjs/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
