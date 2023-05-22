@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-05-21T01:34:45.666Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-05-22T01:26:06.613Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -12,6 +12,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gotquestions (2)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [hintable (2)](https://github.com/willuhmjs/hintable) ([homepage](https://willuhmjs.github.io/hintable/)) - An exciting word guessing game.
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
+- [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhm-js.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [touch-grass (2)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [willuhmjs (2)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (2)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
@@ -32,7 +33,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [learnrust (1)](https://github.com/willuhmjs/learnrust)  - No description provided.
 - [pi-anywhere (1)](https://github.com/willuhmjs/pi-anywhere)  - pi-anywhere is an app designed to allow connection between your Raspberry Pi and Discord.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
-- [revelation214 (1)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhm-js.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [Salutation (1)](https://github.com/willuhmjs/Salutation)  - Salutation is a highly customizable greetings bot to welcome new members to your server. Every aspect of the greeting image can be changed, resulting in a truly unique welcome.
 - [SmileyDown (1)](https://github.com/willuhmjs/SmileyDown) ([homepage](https://willuhmjs.github.io/SmileyDown/)) - A compiled markdown language that uses emoticons.
 - [tdih (1)](https://github.com/willuhmjs/tdih) ([homepage](https://willuhmjs.github.io/tdih/)) - A website that displays notable births, deaths, events, and holidays for the current date using the Wikipedia API.
