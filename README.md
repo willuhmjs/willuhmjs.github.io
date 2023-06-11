@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-06-10T01:36:46.840Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-06-11T01:52:37.627Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -12,7 +12,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gotquestions (2)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [hintable (2)](https://github.com/willuhmjs/hintable) ([homepage](https://willuhmjs.github.io/hintable/)) - An exciting word guessing game.
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
-- [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhm-js.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
+- [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhmjs.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [touch-grass (2)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [willuhmjs (2)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (2)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
