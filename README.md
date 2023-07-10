@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-07-09T01:57:56.471Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-07-10T01:50:13.232Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -44,6 +44,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
+- [cola-counter (0)](https://github.com/willuhmjs/cola-counter)  - the amount of cola willuhmjs has consumed since 07/09/2023
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
