@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-09-14T01:08:26.685Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-09-15T01:09:57.068Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -46,6 +46,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [cola-counter (0)](https://github.com/willuhmjs/cola-counter)  - the amount of cola willuhmjs has consumed since 07/09/2023
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
+- [forgetti (0)](https://github.com/willuhmjs/forgetti)  - Forget about 3D printer spaghetti
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
