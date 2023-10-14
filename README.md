@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-10-13T01:12:13.232Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-10-14T01:08:20.063Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -56,5 +56,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [overwatch (0)](https://github.com/willuhmjs/overwatch) ([homepage](https://willuhmjs.github.io/overwatch/)) - A website for Overwatch players. Feel free to fork and adapt to other games.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
+- [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
