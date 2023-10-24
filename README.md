@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-10-23T01:10:36.990Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-10-24T01:09:52.862Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -49,7 +49,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
-- [learn-java (0)](https://github.com/willuhmjs/learn-java)  - Learning Java since it's cool now (Java 21)
 - [linknexus (0)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
