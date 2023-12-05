@@ -1,18 +1,19 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-12-04T01:14:32.040Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2023-12-05T01:15:02.375Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
+- [hintable (6)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [Dapper (5)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [gotquestions (4)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
-- [hintable (4)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [Quizlet-Exporter (4)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats.
 - [OceanFacts (3)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
 - [printstimate (3)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [touch-grass (3)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
+- [linknexus (2)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhmjs.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [willuhmjs (2)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (2)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
@@ -32,7 +33,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [hyprland-website (1)](https://github.com/willuhmjs/hyprland-website)  - The hyprland.org website
 - [joeldesante (1)](https://github.com/willuhmjs/joeldesante)  - No description provided.
 - [learnrust (1)](https://github.com/willuhmjs/learnrust)  - No description provided.
-- [linknexus (1)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [onedirect (1)](https://github.com/willuhmjs/onedirect)  - Simple 302 redirection controlled by a web dashboard
 - [pi-anywhere (1)](https://github.com/willuhmjs/pi-anywhere)  - pi-anywhere is an app designed to allow connection between your Raspberry Pi and Discord.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
