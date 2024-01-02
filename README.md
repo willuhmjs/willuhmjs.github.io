@@ -1,10 +1,10 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-01T01:19:43.217Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-02T01:11:45.130Z 
 
 ## Repositories
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
-- [hintable (7)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
+- [hintable (8)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [Dapper (5)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [Quizlet-Exporter (5)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats.
 - [gotquestions (4)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
