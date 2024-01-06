@@ -1,10 +1,10 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-05T01:13:56.882Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-06T01:13:10.473Z 
 
 ## Repositories
+- [hintable (11)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
-- [hintable (9)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [Dapper (5)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [Quizlet-Exporter (5)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats.
 - [gotquestions (4)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
@@ -48,6 +48,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
+- [forgetti-utils (0)](https://github.com/willuhmjs/forgetti-utils)  - Forget about 3D printer spaghetti
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
