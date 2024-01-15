@@ -1,12 +1,13 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-14T01:20:31.343Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-01-15T01:17:28.779Z 
 
 ## Repositories
 - [hintable (12)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
 - [carview (10)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [Quizlet-Exporter (6)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [Dapper (5)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
+- [forgetti (4)](https://github.com/willuhmjs/forgetti)  - Forget about 3D printer spaghetti.
 - [gotquestions (4)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [touch-grass (4)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [OceanFacts (3)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
@@ -26,7 +27,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [DynamicClock (1)](https://github.com/willuhmjs/DynamicClock)  - A clock that dynamically changes theme based on the time.
 - [empty (1)](https://github.com/willuhmjs/empty)  - An empty repo!
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
-- [forgetti (1)](https://github.com/willuhmjs/forgetti)  - Forget about 3D printer spaghetti.
 - [GCC2023WebDesign (1)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
 - [Harvey (1)](https://github.com/willuhmjs/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
 - [hyperpass (1)](https://github.com/willuhmjs/hyperpass) ([homepage](https://willuhmjs.github.io/hyperpass/)) - a secure browser-only password generator.
@@ -47,6 +47,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
+- [cloud-url-resolver (0)](https://github.com/willuhmjs/cloud-url-resolver)  - easily resolve protocol/port setups on any development platform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [forgetti-utils (0)](https://github.com/willuhmjs/forgetti-utils)  - Forget about 3D printer spaghetti
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
