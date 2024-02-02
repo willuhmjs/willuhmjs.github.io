@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-02-01T01:13:27.603Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-02-02T01:09:31.895Z 
 
 ## Repositories
 - [hintable (12)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -58,9 +58,11 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [overwatch (0)](https://github.com/willuhmjs/overwatch) ([homepage](https://willuhmjs.github.io/overwatch/)) - A website for Overwatch players. Feel free to fork and adapt to other games.
+- [pharmadarma (0)](https://github.com/willuhmjs/pharmadarma)  - Guess the price of a brand name pharmaceutical based on the price of its generic counterpart. 
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
+- [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [website (0)](https://github.com/willuhmjs/website)  - My elegant portfolio website
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
