@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-02-15T01:09:35.566Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-02-16T01:09:21.999Z 
 
 ## Repositories
 - [hintable (12)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -48,6 +48,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [cloud-url-resolver (0)](https://github.com/willuhmjs/cloud-url-resolver)  - easily resolve protocol/port setups on any development platform
+- [Clubsaurus (0)](https://github.com/willuhmjs/Clubsaurus) ([homepage](https://clubsaur.us)) - Find the clubs that are right for you.
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
 - [forgetti-utils (0)](https://github.com/willuhmjs/forgetti-utils)  - Forget about 3D printer spaghetti
