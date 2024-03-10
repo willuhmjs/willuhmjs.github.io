@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-03-09T01:06:24.451Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-03-10T01:13:24.690Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -51,7 +51,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [Clubsaurus (0)](https://github.com/willuhmjs/Clubsaurus) ([homepage](https://clubsaur.us)) - Find the clubs that are right for you.
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
-- [forgetti-utils (0)](https://github.com/willuhmjs/forgetti-utils)  - Forget about 3D printer spaghetti
+- [forgetti-utils-old (0)](https://github.com/willuhmjs/forgetti-utils-old)  - Forget about 3D printer spaghetti
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
