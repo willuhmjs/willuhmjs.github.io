@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-03-28T01:10:02.308Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-03-29T01:10:12.287Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -63,6 +63,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
+- [security (0)](https://github.com/willuhmjs/security)  - No description provided.
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [website (0)](https://github.com/willuhmjs/website)  - My elegant portfolio website
