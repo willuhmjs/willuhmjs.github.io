@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-05-10T01:14:44.037Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-05-11T01:13:34.654Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -69,5 +69,5 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [sharex (0)](https://github.com/willuhmjs/sharex)  - sharex file and image uploader
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
-- [website (0)](https://github.com/willuhmjs/website) ([homepage](https://astro-nano-demo.vercel.app)) - My personal website, based on Astro Nano.
+- [website (0)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
