@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-07-02T01:19:18.515Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-07-03T01:19:03.208Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
@@ -50,6 +50,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [buzzword (0)](https://github.com/willuhmjs/buzzword) ([homepage](https://willuhmjs.github.io/buzzword/)) - FBLA Business Management
 - [cloud-url-resolver (0)](https://github.com/willuhmjs/cloud-url-resolver)  - easily resolve protocol/port setups on any development platform
 - [Clubsaurus (0)](https://github.com/willuhmjs/Clubsaurus) ([homepage](https://clubsaur.us)) - Find the clubs that are right for you.
+- [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
 - [forgetti-utils-old (0)](https://github.com/willuhmjs/forgetti-utils-old)  - Forget about 3D printer spaghetti
