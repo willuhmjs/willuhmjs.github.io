@@ -1,9 +1,9 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-07-18T01:19:51.867Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-07-20T01:19:21.147Z 
 
 ## Repositories
-- [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.willuhmjs.com/)) - An exciting word guessing game.
+- [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [forgetti (9)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
 - [Quizlet-Exporter (7)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
