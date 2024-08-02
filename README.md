@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-08-01T01:34:46.348Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-08-02T01:21:20.186Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
@@ -54,6 +54,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
+- [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
 - [forgetti-utils-old (0)](https://github.com/willuhmjs/forgetti-utils-old)  - Forget about 3D printer spaghetti
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
