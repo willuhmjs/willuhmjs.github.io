@@ -1,11 +1,11 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-09-27T01:38:52.982Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-09-28T01:37:54.709Z 
 
 ## Repositories
-- [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [forgetti (12)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
+- [hintable (12)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [Quizlet-Exporter (7)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [Dapper (5)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [gotquestions (5)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
@@ -27,7 +27,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [DynamicClock (1)](https://github.com/willuhmjs/DynamicClock)  - A clock that dynamically changes theme based on the time.
 - [empty (1)](https://github.com/willuhmjs/empty)  - An empty repo!
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
-- [GCC2023WebDesign (1)](https://github.com/willuhmjs/GCC2023WebDesign)  - Oh boy, here we go again. Made in 3 hours.
+- [GCC2023WebDesign (1)](https://github.com/willuhmjs/GCC2023WebDesign) ([homepage](https://willuhmjs.github.io/GCC2023WebDesign/)) - Oh boy, here we go again. Made in 3 hours.
 - [Harvey (1)](https://github.com/willuhmjs/Harvey)  - Community managment Discord bot for the Old Dominion University Computer Science community.
 - [hyperpass (1)](https://github.com/willuhmjs/hyperpass) ([homepage](https://willuhmjs.github.io/hyperpass/)) - a secure browser-only password generator.
 - [hyprland-website (1)](https://github.com/willuhmjs/hyprland-website)  - The hyprland.org website
