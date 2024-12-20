@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-12-19T01:45:16.021Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-12-20T01:40:10.870Z 
 
 ## Repositories
 - [forgetti (13)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -57,7 +57,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [cs252git (0)](https://github.com/willuhmjs/cs252git)  - No description provided.
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
-- [fitzwilliam (0)](https://github.com/willuhmjs/fitzwilliam)  - No description provided.
+- [fitzwilliam (0)](https://github.com/willuhmjs/fitzwilliam)  - Fitzwilliam is a Discord bot for the ODU Computer Science Discord server.
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
 - [forgetti-utils-old (0)](https://github.com/willuhmjs/forgetti-utils-old)  - Forget about 3D printer spaghetti
 - [GameruleLoader (0)](https://github.com/willuhmjs/GameruleLoader)  - Plugin that loads gamerules from a YAML file.
