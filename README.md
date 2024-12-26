@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-12-25T01:38:00.533Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2024-12-26T01:38:32.993Z 
 
 ## Repositories
 - [forgetti (13)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -47,6 +47,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [website (1)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
+- [ai-hedge-fund (0)](https://github.com/willuhmjs/ai-hedge-fund)  - An AI Hedge Fund Team
 - [alex-ollama (0)](https://github.com/willuhmjs/alex-ollama)  - llama voice assistant in the browser
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [bucardo_docker_image (0)](https://github.com/willuhmjs/bucardo_docker_image)  - Ubuntu-based Bucardo image for Docker Containers
@@ -79,4 +80,5 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [sharex (0)](https://github.com/willuhmjs/sharex)  - sharex file and image uploader
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
+- [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
