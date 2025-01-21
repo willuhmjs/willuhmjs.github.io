@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-01-20T01:38:45.557Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-01-21T01:36:37.270Z 
 
 ## Repositories
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -38,6 +38,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [public-apis (1)](https://github.com/willuhmjs/public-apis)  - A collective list of free APIs
 - [Salutation (1)](https://github.com/willuhmjs/Salutation)  - Salutation is a highly customizable greetings bot to welcome new members to your server. Every aspect of the greeting image can be changed, resulting in a truly unique welcome.
 - [SmileyDown (1)](https://github.com/willuhmjs/SmileyDown) ([homepage](https://willuhmjs.github.io/SmileyDown/)) - A compiled markdown language that uses emoticons.
+- [svelte-bounding-box (1)](https://github.com/willuhmjs/svelte-bounding-box) ([homepage](https://willuhmjs.github.io/svelte-bounding-box/)) - Draw bounding boxes inside a component
 - [tdih (1)](https://github.com/willuhmjs/tdih) ([homepage](https://willuhmjs.github.io/tdih/)) - A website that displays notable births, deaths, events, and holidays for the current date using the Wikipedia API.
 - [tinyurl-api (1)](https://github.com/willuhmjs/tinyurl-api)  - Shorten a url with TinyURL.
 - [tinyurl-shorten (1)](https://github.com/willuhmjs/tinyurl-shorten)  - An error-resistant module to shorten a URL using TinyURL.
