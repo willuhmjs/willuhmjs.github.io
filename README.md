@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-01-26T01:39:26.762Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-01-27T01:38:51.374Z 
 
 ## Repositories
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -46,6 +46,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [website (1)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
+- [2025-Spring-CS330-Inventory-LL (0)](https://github.com/willuhmjs/2025-Spring-CS330-Inventory-LL)  - No description provided.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [alex-ollama (0)](https://github.com/willuhmjs/alex-ollama)  - llama voice assistant in the browser
