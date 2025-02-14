@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-02-13T01:39:29.206Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-02-14T01:38:56.248Z 
 
 ## Repositories
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -76,6 +76,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [overwatch (0)](https://github.com/willuhmjs/overwatch) ([homepage](https://willuhmjs.github.io/overwatch/)) - A website for Overwatch players. Feel free to fork and adapt to other games.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
+- [rivals-loss (0)](https://github.com/willuhmjs/rivals-loss)  - No description provided.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
 - [scannable (0)](https://github.com/willuhmjs/scannable) ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for a modern web
 - [security (0)](https://github.com/willuhmjs/security)  - No description provided.
