@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-03T01:45:01.532Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-04T01:43:43.570Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
@@ -58,6 +58,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [cs252git (0)](https://github.com/willuhmjs/cs252git)  - No description provided.
+- [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - my arch dotfiles
 - [eportfolio (0)](https://github.com/willuhmjs/eportfolio) ([homepage](https://willuhmjs.github.io/eportfolio/)) - William Faircloth's e-portfolio for the ODU cybersecurity program
 - [finder (0)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
 - [fitzwilliam (0)](https://github.com/willuhmjs/fitzwilliam)  - Fitzwilliam is a Discord bot for the ODU Computer Science Discord server.
