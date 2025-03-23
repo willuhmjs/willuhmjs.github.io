@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-22T01:43:35.439Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-23T01:51:51.326Z 
 
 ## Repositories
 - [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
@@ -47,6 +47,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [website (1)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
 - [2025-Spring-CS330-Inventory-LL (0)](https://github.com/willuhmjs/2025-Spring-CS330-Inventory-LL)  - No description provided.
+- [2025-Spring-CS330-Java-Inventory-OOP-5 (0)](https://github.com/willuhmjs/2025-Spring-CS330-Java-Inventory-OOP-5)  - No description provided.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
 - [alex-ollama (0)](https://github.com/willuhmjs/alex-ollama)  - llama voice assistant in the browser
