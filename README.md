@@ -1,19 +1,19 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-27T01:46:17.754Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-03-28T01:46:35.558Z 
 
 ## Repositories
-- [forgetti (14)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
-- [hintable (13)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
+- [forgetti (15)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
+- [hintable (14)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [Quizlet-Exporter (9)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [Dapper (6)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [touch-grass (6)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [gotquestions (5)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
+- [willuhmjs (4)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [OceanFacts (3)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
 - [printstimate (3)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
-- [willuhmjs (3)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [willuhmjs.github.io (3)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
 - [linknexus (2)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
@@ -32,6 +32,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [eportfolio (1)](https://github.com/willuhmjs/eportfolio) ([homepage](https://willuhmjs.github.io/eportfolio/)) - William Faircloth's e-portfolio for the ODU cybersecurity program
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
 - [finder (1)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
+- [fitzwilliam (1)](https://github.com/willuhmjs/fitzwilliam)  - Fitzwilliam is a Discord bot for the ODU Computer Science Discord server.
 - [forgetti-utils-old (1)](https://github.com/willuhmjs/forgetti-utils-old)  - Forget about 3D printer spaghetti
 - [GameruleLoader (1)](https://github.com/willuhmjs/GameruleLoader)  - Plugin that loads gamerules from a YAML file.
 - [GCC2023WebDesign (1)](https://github.com/willuhmjs/GCC2023WebDesign) ([homepage](https://willuhmjs.github.io/GCC2023WebDesign/)) - Oh boy, here we go again. Made in 3 hours.
@@ -69,7 +70,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [cs252git (0)](https://github.com/willuhmjs/cs252git)  - No description provided.
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - my arch dotfiles
-- [fitzwilliam (0)](https://github.com/willuhmjs/fitzwilliam)  - Fitzwilliam is a Discord bot for the ODU Computer Science Discord server.
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
 - [grafana-ansible-collection (0)](https://github.com/willuhmjs/grafana-ansible-collection) ([homepage](https://docs.ansible.com/ansible/latest/collections/grafana/grafana/index.html#plugins-in-grafana-grafana)) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
