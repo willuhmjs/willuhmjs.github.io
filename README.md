@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-04-11T01:48:34.297Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-04-12T01:45:39.133Z 
 
 ## Repositories
 - [forgetti (16)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -86,7 +86,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [scannable (0)](https://github.com/willuhmjs/scannable) ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for a modern web
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
-- [test-releases (0)](https://github.com/willuhmjs/test-releases)  - No description provided.
 - [Ulauncher (0)](https://github.com/willuhmjs/Ulauncher) ([homepage](https://ulauncher.io)) - Feature rich application Launcher for Linux
 - [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
