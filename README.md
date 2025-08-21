@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-08-20T01:52:41.923Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-08-21T01:51:16.175Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -84,6 +84,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [rivals-loss (0)](https://github.com/willuhmjs/rivals-loss)  - No description provided.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
 - [scannable (0)](https://github.com/willuhmjs/scannable) ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for a modern web
+- [Sonny (0)](https://github.com/willuhmjs/Sonny)  - No description provided.
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
 - [trs (0)](https://github.com/willuhmjs/trs)  - A command-line utility to safely manage file deletion by using a trash folder instead of permanently deleting files.
