@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-11-17T01:55:59.203Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-11-18T01:54:28.786Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -91,3 +91,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [Ulauncher (0)](https://github.com/willuhmjs/Ulauncher) ([homepage](https://ulauncher.io)) - Feature rich application Launcher for Linux
 - [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
+- [xmltv-data (0)](https://github.com/willuhmjs/xmltv-data)  - get xmltvdata from tvtv.us 
