@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-12-09T01:58:23.052Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-12-10T02:00:16.926Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -19,6 +19,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [linknexus (2)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhmjs.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [svelte-bounding-box (2)](https://github.com/willuhmjs/svelte-bounding-box) ([homepage](https://willuhmjs.github.io/svelte-bounding-box/)) - Draw bounding boxes inside a component
+- [void (2)](https://github.com/willuhmjs/void)  - A simple authentication gateway written in SvelteKit
 - [alex-ollama (1)](https://github.com/willuhmjs/alex-ollama)  - llama voice assistant in the browser
 - [AlphaAndOmega (1)](https://github.com/willuhmjs/AlphaAndOmega) ([homepage](https://willuhm-js.github.io/AlphaAndOmega)) - A web art project showcasing the power of the Alpha and the Omega.
 - [BlogGPT (1)](https://github.com/willuhmjs/BlogGPT)  - A tech blog with articles written by OpenAI's GPT-3 model.
