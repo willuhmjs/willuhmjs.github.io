@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-12-24T02:00:27.561Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2025-12-25T02:02:37.187Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -70,6 +70,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [cs252git (0)](https://github.com/willuhmjs/cs252git)  - No description provided.
+- [diffusion-stiffness-solver (0)](https://github.com/willuhmjs/diffusion-stiffness-solver)  - A Conditional Diffusion Model for non-destructive testing, solving the ultrasonic inverse problem to map frequency phase spectra to adhesive bond stiffness parameters 
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - my arch dotfiles
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
 - [grafana-ansible-collection (0)](https://github.com/willuhmjs/grafana-ansible-collection) ([homepage](https://docs.ansible.com/ansible/latest/collections/grafana/grafana/index.html#plugins-in-grafana-grafana)) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
