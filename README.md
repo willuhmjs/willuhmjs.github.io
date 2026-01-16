@@ -1,11 +1,11 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-01-15T02:04:39.033Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-01-16T02:06:43.117Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
 - [hintable (15)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
-- [Quizlet-Exporter (14)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
+- [Quizlet-Exporter (15)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [carview (12)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [gotquestions (8)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [Dapper (7)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
@@ -79,6 +79,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [iris (0)](https://github.com/willuhmjs/iris)  - detroit become sveltekit
 - [irremote-gpt (0)](https://github.com/willuhmjs/irremote-gpt)  - No description provided.
+- [jellyfin-live (0)](https://github.com/willuhmjs/jellyfin-live)  - No description provided.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
 - [lilcaeser (0)](https://github.com/willuhmjs/lilcaeser)  - No description provided.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
