@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-01-25T02:23:33.635Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-01-26T02:22:54.609Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -84,6 +84,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [lilcaeser (0)](https://github.com/willuhmjs/lilcaeser)  - No description provided.
 - [mikoshi (0)](https://github.com/willuhmjs/mikoshi)  - No description provided.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
+- [nethunter (0)](https://github.com/willuhmjs/nethunter)  - various scripts and tools for penetration testing
 - [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
