@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-03-04T02:30:44.379Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-03-05T02:33:31.018Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -73,6 +73,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [diffusion-stiffness-solver (0)](https://github.com/willuhmjs/diffusion-stiffness-solver)  - No description provided.
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - my arch dotfiles
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
+- [gopro_as_webcam_on_linux (0)](https://github.com/willuhmjs/gopro_as_webcam_on_linux)  - Allows to use your GoPro camera as a webcam on linux
 - [grafana-ansible-collection (0)](https://github.com/willuhmjs/grafana-ansible-collection) ([homepage](https://docs.ansible.com/ansible/latest/collections/grafana/grafana/index.html#plugins-in-grafana-grafana)) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
@@ -81,6 +82,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [irremote-gpt (0)](https://github.com/willuhmjs/irremote-gpt)  - No description provided.
 - [jellyfin-live (0)](https://github.com/willuhmjs/jellyfin-live)  - No description provided.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
+- [lernendeutsch (0)](https://github.com/willuhmjs/lernendeutsch)  - No description provided.
 - [lilcaeser (0)](https://github.com/willuhmjs/lilcaeser)  - No description provided.
 - [mikoshi (0)](https://github.com/willuhmjs/mikoshi)  - No description provided.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
