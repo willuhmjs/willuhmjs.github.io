@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-03-15T02:52:20.862Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-03-16T02:52:36.518Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -83,7 +83,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [jellyfin-live (0)](https://github.com/willuhmjs/jellyfin-live)  - No description provided.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
 - [lilcaeser (0)](https://github.com/willuhmjs/lilcaeser)  - No description provided.
-- [lingolearn (0)](https://github.com/willuhmjs/lingolearn)  - No description provided.
+- [lingolearn (0)](https://github.com/willuhmjs/lingolearn) ([homepage](https://lingolearn.cs.odu.edu)) - AI-powered language learning app with spaced repetition, conversation practice, and classroom tools — supports German, Spanish, and French
 - [mikoshi (0)](https://github.com/willuhmjs/mikoshi)  - No description provided.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [nethunter (0)](https://github.com/willuhmjs/nethunter)  - various scripts and tools for penetration testing
