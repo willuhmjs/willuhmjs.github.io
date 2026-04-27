@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-04-26T03:31:33.499Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-04-27T03:35:29.731Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -104,4 +104,5 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [vaim-toy-problem (0)](https://github.com/willuhmjs/vaim-toy-problem)  - Trying to create a VAIM neural network
 - [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
+- [wytui (0)](https://github.com/willuhmjs/wytui)  - No description provided.
 - [xmltv-data (0)](https://github.com/willuhmjs/xmltv-data)  - get xmltvdata from tvtv.us 
