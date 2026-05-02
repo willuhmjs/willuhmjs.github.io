@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-01T03:52:07.406Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-02T03:25:24.288Z 
 
 ## Repositories
 - [forgetti (18)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -30,7 +30,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [doke (1)](https://github.com/willuhmjs/doke)  - code decoder
 - [DynamicClock (1)](https://github.com/willuhmjs/DynamicClock)  - A clock that dynamically changes theme based on the time.
 - [empty (1)](https://github.com/willuhmjs/empty)  - An empty repo!
-- [eportfolio (1)](https://github.com/willuhmjs/eportfolio) ([homepage](https://willuhmjs.github.io/eportfolio/)) - William Faircloth's e-portfolio for the ODU cybersecurity program
 - [filelion (1)](https://github.com/willuhmjs/filelion)  - File storage software that allows you to access a folder on your PC from over the internet
 - [finder (1)](https://github.com/willuhmjs/finder)  - Web client to interact with Flashforge Finder and other Flashforge printers.
 - [fitzwilliam (1)](https://github.com/willuhmjs/fitzwilliam)  - Fitzwilliam is a Discord bot for the ODU Computer Science Discord server.
