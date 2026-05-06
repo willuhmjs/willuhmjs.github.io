@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-05T03:27:50.640Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-06T03:39:02.655Z 
 
 ## Repositories
 - [forgetti (19)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -58,6 +58,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [website (1)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
+- [wytui (1)](https://github.com/willuhmjs/wytui)  - Fully-featured YTDL web UI. 
 - [2025-Spring-CS330-Inventory-LL (0)](https://github.com/willuhmjs/2025-Spring-CS330-Inventory-LL)  - No description provided.
 - [2025-Spring-CS330-Java-Inventory-OOP-5 (0)](https://github.com/willuhmjs/2025-Spring-CS330-Java-Inventory-OOP-5)  - No description provided.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
@@ -105,5 +106,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [vaim-toy-problem (0)](https://github.com/willuhmjs/vaim-toy-problem)  - Trying to create a VAIM neural network
 - [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
-- [wytui (0)](https://github.com/willuhmjs/wytui)  - No description provided.
 - [xmltv-data (0)](https://github.com/willuhmjs/xmltv-data)  - get xmltvdata from tvtv.us 
