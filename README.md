@@ -1,9 +1,9 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-08T03:32:54.191Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-09T03:33:07.681Z 
 
 ## Repositories
-- [forgetti (19)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
+- [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
 - [Quizlet-Exporter (18)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [hintable (15)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (13)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -16,6 +16,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [willuhmjs.github.io (3)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
+- [lingolearn (2)](https://github.com/willuhmjs/lingolearn)  - AI-powered language learning app with spaced repetition, conversation practice, and classroom tools — supports German, Spanish, and French
 - [linknexus (2)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhmjs.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [svelte-bounding-box (2)](https://github.com/willuhmjs/svelte-bounding-box) ([homepage](https://willuhmjs.github.io/svelte-bounding-box/)) - Draw bounding boxes inside a component
@@ -87,7 +88,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [jellyfin-live (0)](https://github.com/willuhmjs/jellyfin-live)  - No description provided.
 - [KP3S-Klipper (0)](https://github.com/willuhmjs/KP3S-Klipper)  - KP3S and KP3S Pro Klipper config files for mainsail.
 - [lilcaeser (0)](https://github.com/willuhmjs/lilcaeser)  - No description provided.
-- [lingolearn (0)](https://github.com/willuhmjs/lingolearn) ([homepage](https://lingolearn.cs.odu.edu)) - AI-powered language learning app with spaced repetition, conversation practice, and classroom tools — supports German, Spanish, and French
 - [mikoshi (0)](https://github.com/willuhmjs/mikoshi)  - No description provided.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [nethunter (0)](https://github.com/willuhmjs/nethunter)  - various scripts and tools for penetration testing
