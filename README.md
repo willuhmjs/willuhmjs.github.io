@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-09T03:33:07.681Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-05-10T03:48:26.651Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -11,6 +11,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [Dapper (7)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [touch-grass (6)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [willuhmjs (4)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
+- [wytui (4)](https://github.com/willuhmjs/wytui)  - Will's YouTube User Interface. Fully-featured YTDL web UI. 
 - [OceanFacts (3)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
 - [printstimate (3)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
@@ -59,7 +60,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [v12-discord-bot-template (1)](https://github.com/willuhmjs/v12-discord-bot-template)  - v12-discord-bot-template is a comprehensively-commented Discord bot template that includes a command handler to help manage commands.
 - [webpage-1 (1)](https://github.com/willuhmjs/webpage-1) ([homepage](https://leodog896.com)) - My personal site
 - [website (1)](https://github.com/willuhmjs/website)  - My personal website, based on Astro Nano.
-- [wytui (1)](https://github.com/willuhmjs/wytui)  - Will's YouTube User Interface. Fully-featured YTDL web UI. 
 - [2025-Spring-CS330-Inventory-LL (0)](https://github.com/willuhmjs/2025-Spring-CS330-Inventory-LL)  - No description provided.
 - [2025-Spring-CS330-Java-Inventory-OOP-5 (0)](https://github.com/willuhmjs/2025-Spring-CS330-Java-Inventory-OOP-5)  - No description provided.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
