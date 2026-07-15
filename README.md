@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-14T02:51:00.850Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-15T02:49:18.239Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -74,6 +74,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
 - [covid19-calculator (0)](https://github.com/willuhmjs/covid19-calculator) ([homepage](https://www.npmjs.com/package/@deptofdefense/covid19-calculator)) - COVID-19 Calculator written in Typescript.
 - [cs252git (0)](https://github.com/willuhmjs/cs252git)  - No description provided.
+- [dashboard (0)](https://github.com/willuhmjs/dashboard)  - Rancher Dashboard - Mobile Responsive UI
 - [debconfig (0)](https://github.com/willuhmjs/debconfig)  - No description provided.
 - [diffusion-stiffness-solver (0)](https://github.com/willuhmjs/diffusion-stiffness-solver)  - No description provided.
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - Personal dotfiles (bare-repo method): ssh config, zshrc
