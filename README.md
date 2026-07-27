@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-26T03:27:24.806Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-27T03:35:35.635Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -11,9 +11,9 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [Dapper (7)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [touch-grass (6)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
 - [wytui (5)](https://github.com/willuhmjs/wytui) ([homepage](http://wytui.willuhmjs.com/)) - Will's YouTube User Interface. Fully-featured YTDL web UI. 
+- [printstimate (4)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [willuhmjs (4)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
 - [OceanFacts (3)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
-- [printstimate (3)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [willuhmjs.github.io (3)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
