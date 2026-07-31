@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-30T02:44:08.531Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-07-31T03:26:21.311Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -64,8 +64,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [2025-Spring-CS330-Java-Inventory-OOP-5 (0)](https://github.com/willuhmjs/2025-Spring-CS330-Java-Inventory-OOP-5)  - No description provided.
 - [adhdtrap (0)](https://github.com/willuhmjs/adhdtrap)  - Welcome to the Internet!
 - [aesjson.db (0)](https://github.com/willuhmjs/aesjson.db)  - An implementation of a key-value JSON database with AES encryption.
-- [android_kernel_google_marlin-nethunter (0)](https://github.com/willuhmjs/android_kernel_google_marlin-nethunter)  - No description provided.
-- [android_kernel_google_marlin-old (0)](https://github.com/willuhmjs/android_kernel_google_marlin-old)  - Kali NetHunter kernel for Google Pixel (sailfish), LineageOS 22.2 / Android 15. Source on nethunter-15 branch.
+- [android_kernel_google_marlin (0)](https://github.com/willuhmjs/android_kernel_google_marlin)  - No description provided.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [archconfig (0)](https://github.com/willuhmjs/archconfig)  - No description provided.
 - [bible-web (0)](https://github.com/willuhmjs/bible-web)  - A self-hosted Bible reader with modern styling
@@ -95,7 +94,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [nethunter (0)](https://github.com/willuhmjs/nethunter)  - various scripts and tools for penetration testing
 - [nethunter-pixel-sailfish (0)](https://github.com/willuhmjs/nethunter-pixel-sailfish)  - No description provided.
-- [nethunter_kernel_google_marlin (0)](https://github.com/willuhmjs/nethunter_kernel_google_marlin)  - Kali NetHunter kernel for Google Pixel (sailfish), LineageOS 22.2 / Android 15. Source on the nethunter-lineage-22.2 branch.
 - [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
