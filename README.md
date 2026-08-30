@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-08-29T06:32:07.134Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-08-30T04:44:11.647Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -85,6 +85,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [grafana-ansible-collection (0)](https://github.com/willuhmjs/grafana-ansible-collection) ([homepage](https://docs.ansible.com/ansible/latest/collections/grafana/grafana/index.html#plugins-in-grafana-grafana)) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
+- [headlamp (0)](https://github.com/willuhmjs/headlamp) ([homepage](https://headlamp.dev)) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [iris (0)](https://github.com/willuhmjs/iris)  - detroit become sveltekit
 - [irremote-gpt (0)](https://github.com/willuhmjs/irremote-gpt)  - No description provided.
