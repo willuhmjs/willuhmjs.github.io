@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-09-18T04:02:42.935Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-09-19T04:00:03.997Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -68,6 +68,8 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [archconfig (0)](https://github.com/willuhmjs/archconfig)  - No description provided.
 - [aws-s3-demo (0)](https://github.com/willuhmjs/aws-s3-demo) ([homepage](https://willuhmjs.github.io/aws-s3-demo/)) - No description provided.
+- [bambuddy (0)](https://github.com/willuhmjs/bambuddy) ([homepage](http://bambuddy.cool/)) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. 
+- [bambuddy-wiki (0)](https://github.com/willuhmjs/bambuddy-wiki) ([homepage](http://wiki.bambuddy.cool/)) - Wiki for Bambuddy - https://github.com/maziggy/bambuddy
 - [bible-web (0)](https://github.com/willuhmjs/bible-web)  - A self-hosted Bible reader with modern styling
 - [bucardo_docker_image (0)](https://github.com/willuhmjs/bucardo_docker_image)  - Ubuntu-based Bucardo image for Docker Containers
 - [canvas-outline-notes (0)](https://github.com/willuhmjs/canvas-outline-notes)  - No description provided.
