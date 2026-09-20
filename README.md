@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-09-19T04:00:03.997Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-09-20T04:18:44.599Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -100,6 +100,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [nationalsecurityagency.github.io (0)](https://github.com/willuhmjs/nationalsecurityagency.github.io) ([homepage](https://willuhmjs.github.io/nationalsecurityagency.github.io/)) - Site for NSA's Open Source project listing
 - [nethunter (0)](https://github.com/willuhmjs/nethunter)  - various scripts and tools for penetration testing
 - [nethunter-pixel-sailfish (0)](https://github.com/willuhmjs/nethunter-pixel-sailfish)  - No description provided.
+- [notewriter (0)](https://github.com/willuhmjs/notewriter)  - No description provided.
 - [opensource-website (0)](https://github.com/willuhmjs/opensource-website) ([homepage](https://opensource.twitter.dev)) - Twitter's open source website, identifying projects we've released, organizations we support, and the work we do to support open source.
 - [PrintSphere (0)](https://github.com/willuhmjs/PrintSphere) ([homepage](https://github.com/cptkirki/PrintSphere)) - Round ESP32-S3 printer companion for Bambu Lab: live status, progress ring, camera snapshots, cloud + LAN sync, with touch on a circular display.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
