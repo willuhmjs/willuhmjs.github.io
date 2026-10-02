@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-01T05:08:50.651Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-02T04:57:50.521Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -82,6 +82,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [dashboard (0)](https://github.com/willuhmjs/dashboard)  - Rancher Dashboard - Mobile Responsive UI
 - [debconfig (0)](https://github.com/willuhmjs/debconfig)  - No description provided.
 - [diffusion-stiffness-solver (0)](https://github.com/willuhmjs/diffusion-stiffness-solver)  - No description provided.
+- [discord-mcp (0)](https://github.com/willuhmjs/discord-mcp)  - MCP server exposing the full Discord API to LLM agents — 168 tools: rich messages, interactions, threads, moderation, AutoMod and server config on discord.js
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - Personal dotfiles (bare-repo method): ssh config, zshrc
 - [esp32s3-ai-assistant (0)](https://github.com/willuhmjs/esp32s3-ai-assistant)  - Bare-metal Rust voice assistant firmware for the Spotpear ESP32-S3 1.28in round touch box - no ESP-IDF, no FreeRTOS
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
@@ -109,6 +110,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [rivals-loss (0)](https://github.com/willuhmjs/rivals-loss)  - No description provided.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
 - [scannable (0)](https://github.com/willuhmjs/scannable) ([homepage](https://leodog896.github.io/scannable/)) - QR code generation for a modern web
+- [smartbot (0)](https://github.com/willuhmjs/smartbot)  - LLM-controlled Discord bot: a Qwen (or any OpenAI-compatible) agent that manages your server through discord-mcp
 - [Sonny (0)](https://github.com/willuhmjs/Sonny)  - No description provided.
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [strokesec (0)](https://github.com/willuhmjs/strokesec) ([homepage](https://willuhmjs.github.io/strokesec/)) - biometric security based on muscle memory when typing
