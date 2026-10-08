@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-07T05:15:56.820Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-08T05:25:43.519Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -106,6 +106,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [printpuck (0)](https://github.com/willuhmjs/printpuck)  - Round ESP32-S3 desk display for Bambu Lab printers - bare-metal Rust, local MQTT, no cloud
 - [PrintSphere (0)](https://github.com/willuhmjs/PrintSphere) ([homepage](https://github.com/cptkirki/PrintSphere)) - Round ESP32-S3 printer companion for Bambu Lab: live status, progress ring, camera snapshots, cloud + LAN sync, with touch on a circular display.
 - [publicdb (0)](https://github.com/willuhmjs/publicdb) ([homepage](https://publicdb.vercel.app)) - An open-source demonstration and implementation of a public RSA encrypted key-value database.
+- [relaypoint (0)](https://github.com/willuhmjs/relaypoint)  - Self-hosted digital signage platform: manage displays, upload content, and broadcast presentations in real time over WebSockets.
 - [rickhider (0)](https://github.com/willuhmjs/rickhider) ([homepage](https://rickhider.vercel.app)) - Rickroll your friends by decieving them with custom metadata.
 - [rivals-loss (0)](https://github.com/willuhmjs/rivals-loss)  - No description provided.
 - [rust-hell (0)](https://github.com/willuhmjs/rust-hell)  - I'm doing rustlings
