@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-12T05:17:35.561Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-14T04:17:45.523Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -122,3 +122,4 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [wifi-remote (0)](https://github.com/willuhmjs/wifi-remote)  - No description provided.
 - [wordle-spoiler (0)](https://github.com/willuhmjs/wordle-spoiler)  - No description provided.
 - [xmltv-data (0)](https://github.com/willuhmjs/xmltv-data)  - get xmltvdata from tvtv.us 
+- [z-image-studio (0)](https://github.com/willuhmjs/z-image-studio)  - A Cli, a webUI, and a MCP server for the Z-Image-Turbo text-to-image generation model (Tongyi-MAI/Z-Image-Turbo base model as well as quantized models)
