@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-17T03:47:30.426Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-18T03:53:42.995Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -10,7 +10,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gotquestions (8)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [Dapper (7)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
 - [touch-grass (6)](https://github.com/willuhmjs/touch-grass) ([homepage](https://willuhmjs.github.io/touch-grass/)) - An app to touch grass from the comfort of your own living space.
-- [wytui (5)](https://github.com/willuhmjs/wytui) ([homepage](http://wytui.willuhmjs.com/)) - Will's YouTube User Interface. Fully-featured YTDL web UI. 
+- [wytui (5)](https://github.com/willuhmjs/wytui) ([homepage](https://wytui.willuhmjs.com)) - Will's YouTube User Interface. Fully-featured YTDL web UI. 
 - [OceanFacts (4)](https://github.com/willuhmjs/OceanFacts) ([homepage](https://willuhmjs.github.io/OceanFacts)) - 🌊 Ocean Facts is a free database containing an interesting list of curated facts related to the field of oceanography.
 - [printstimate (4)](https://github.com/willuhmjs/printstimate) ([homepage](https://willuhmjs.github.io/printstimate/)) - A tool for calculating the cost of 3D printing / additive manufacturing jobs.
 - [willuhmjs (4)](https://github.com/willuhmjs/willuhmjs)  - My GitHub page.
