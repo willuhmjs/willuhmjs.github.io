@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-26T04:06:00.957Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-27T04:25:46.512Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -116,6 +116,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [spaghetti-mjpeg (0)](https://github.com/willuhmjs/spaghetti-mjpeg) ([homepage](https://spaghetti-mjpeg.vercel.app)) - Streams images of 3D print spaghetti.
 - [strokesec (0)](https://github.com/willuhmjs/strokesec) ([homepage](https://willuhmjs.github.io/strokesec/)) - biometric security based on muscle memory when typing
 - [svelte-awesome-color-picker (0)](https://github.com/willuhmjs/svelte-awesome-color-picker) ([homepage](https://svelte-awesome-color-picker.vercel.app)) - svelte-awesome-color-picker is a highly customizable svelte color picker component library
+- [tor-hidden-service (0)](https://github.com/willuhmjs/tor-hidden-service)  - Tor as a container image for running a v3 onion service (Alpine tor behind a pinned base tag)
 - [trs (0)](https://github.com/willuhmjs/trs)  - A command-line utility to safely manage file deletion by using a trash folder instead of permanently deleting files.
 - [Ulauncher (0)](https://github.com/willuhmjs/Ulauncher) ([homepage](https://ulauncher.io)) - Feature rich application Launcher for Linux
 - [vaim-toy-problem (0)](https://github.com/willuhmjs/vaim-toy-problem)  - Trying to create a VAIM neural network
