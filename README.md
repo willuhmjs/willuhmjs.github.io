@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-28T04:56:53.105Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-10-29T05:08:20.181Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -91,6 +91,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
 - [headlamp (0)](https://github.com/willuhmjs/headlamp) ([homepage](https://headlamp.dev)) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [honion (0)](https://github.com/willuhmjs/honion)  - GPU vanity address generator for Tor v3 onion services. ~1.25e10 candidate addresses/sec on an RTX PRO 6000 Blackwell.
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [iris (0)](https://github.com/willuhmjs/iris)  - detroit become sveltekit
 - [irremote-gpt (0)](https://github.com/willuhmjs/irremote-gpt)  - No description provided.
