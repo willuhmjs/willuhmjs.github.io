@@ -1,9 +1,9 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-05T05:57:18.710Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-06T05:53:51.608Z 
 
 ## Repositories
-- [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
+- [forgetti (19)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
 - [Quizlet-Exporter (19)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
 - [hintable (15)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (13)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
@@ -17,7 +17,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [webpage (3)](https://github.com/willuhmjs/webpage) ([homepage](https://willuhmjs.com/)) - My personal website and blog!
 - [willuhmjs.github.io (3)](https://github.com/willuhmjs/willuhmjs.github.io)  - my repos
 - [LightInTheDarkness (2)](https://github.com/willuhmjs/LightInTheDarkness)  - A web art project showcasing John 8:12 from the New Internation Version of the Bible
-- [lingolearn (2)](https://github.com/willuhmjs/lingolearn)  - AI-powered language learning app with spaced repetition, conversation practice, and classroom tools — supports German, Spanish, and French
 - [revelation214 (2)](https://github.com/willuhmjs/revelation214) ([homepage](https://willuhmjs.github.io/revelation214/)) - A web art project showcasing Revelation 21:4 from the New International Version of the Bible.
 - [svelte-bounding-box (2)](https://github.com/willuhmjs/svelte-bounding-box) ([homepage](https://willuhmjs.github.io/svelte-bounding-box/)) - Draw bounding boxes inside a component
 - [void (2)](https://github.com/willuhmjs/void)  - A simple authentication gateway written in SvelteKit
@@ -43,6 +42,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [IRLClip (1)](https://github.com/willuhmjs/IRLClip)  - Twitch Clip people IRL
 - [joeldesante (1)](https://github.com/willuhmjs/joeldesante)  - No description provided.
 - [learnrust (1)](https://github.com/willuhmjs/learnrust)  - No description provided.
+- [lingolearn (1)](https://github.com/willuhmjs/lingolearn)  - AI-powered language learning app with spaced repetition, conversation practice, and classroom tools — supports German, Spanish, and French
 - [linknexus (1)](https://github.com/willuhmjs/linknexus)  - Create and manage your own social media reference landing page. Host personally or as a service (SaaS).
 - [odu-gameservers (1)](https://github.com/willuhmjs/odu-gameservers)  - No description provided.
 - [onedirect (1)](https://github.com/willuhmjs/onedirect)  - Simple 302 redirection controlled by a web dashboard
