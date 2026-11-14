@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-13T05:55:31.187Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-14T05:44:39.145Z 
 
 ## Repositories
 - [forgetti (19)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -86,6 +86,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [dotfiles (0)](https://github.com/willuhmjs/dotfiles)  - Personal dotfiles (bare-repo method): ssh config, zshrc
 - [esp32s3-ai-assistant (0)](https://github.com/willuhmjs/esp32s3-ai-assistant)  - Bare-metal Rust voice assistant firmware for the Spotpear ESP32-S3 1.28in round touch box - no ESP-IDF, no FreeRTOS
 - [flipper-number-guesser (0)](https://github.com/willuhmjs/flipper-number-guesser)  - Flipper Zero number guesser game built in Rust
+- [garage-ui (0)](https://github.com/willuhmjs/garage-ui)  - Garage Admin UI with OIDC and team access control
 - [gopro_as_webcam_on_linux (0)](https://github.com/willuhmjs/gopro_as_webcam_on_linux)  - Allows to use your GoPro camera as a webcam on linux
 - [grafana-ansible-collection (0)](https://github.com/willuhmjs/grafana-ansible-collection) ([homepage](https://docs.ansible.com/ansible/latest/collections/grafana/grafana/index.html#plugins-in-grafana-grafana)) - grafana.grafana Ansible collection provides modules and roles for managing various resources on Grafana Cloud and roles to manage and deploy Grafana Agent and Grafana
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
