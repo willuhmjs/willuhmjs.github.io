@@ -1,6 +1,6 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-22T05:57:28.004Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-23T06:48:39.586Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
@@ -68,12 +68,14 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [archconfig (0)](https://github.com/willuhmjs/archconfig)  - No description provided.
 - [aws-s3-demo (0)](https://github.com/willuhmjs/aws-s3-demo) ([homepage](https://willuhmjs.github.io/aws-s3-demo/)) - No description provided.
+- [backshots (0)](https://github.com/willuhmjs/backshots) ([homepage](https://willuhmjs.github.io/backshots/)) - Kubernetes-native backups that land as plain files on your NAS. App-consistent Postgres/SQLite, hardlink snapshots, retention, restore tests.
 - [bambuddy (0)](https://github.com/willuhmjs/bambuddy) ([homepage](http://bambuddy.cool/)) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. 
 - [bambuddy-wiki (0)](https://github.com/willuhmjs/bambuddy-wiki) ([homepage](http://wiki.bambuddy.cool/)) - Wiki for Bambuddy - https://github.com/maziggy/bambuddy
 - [bible-web (0)](https://github.com/willuhmjs/bible-web)  - A self-hosted Bible reader with modern styling
 - [bucardo_docker_image (0)](https://github.com/willuhmjs/bucardo_docker_image)  - Ubuntu-based Bucardo image for Docker Containers
 - [canvas-outline-notes (0)](https://github.com/willuhmjs/canvas-outline-notes)  - No description provided.
 - [captioner (0)](https://github.com/willuhmjs/captioner) ([homepage](https://willuhmjs.github.io/captioner/)) - No description provided.
+- [chatgo (0)](https://github.com/willuhmjs/chatgo)  - Self-hosted AI chat webapp in a single Go binary — ChatGPT-style UI, multi-user, OIDC + TOTP, knowledge bases, <128MiB RAM
 - [cloud-url-resolver (0)](https://github.com/willuhmjs/cloud-url-resolver)  - easily resolve protocol/port setups on any development platform
 - [Clubsaurus (0)](https://github.com/willuhmjs/Clubsaurus) ([homepage](https://clubsaur.us)) - Find the clubs that are right for you.
 - [coder (0)](https://github.com/willuhmjs/coder) ([homepage](https://coder.com)) - Provision remote development environments via Terraform
