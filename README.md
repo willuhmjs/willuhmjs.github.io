@@ -1,11 +1,11 @@
 # willuhmjs.github.io
 
-This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-24T09:15:22.058Z 
+This is an auto generated list of my repositories. Check out [https://willuhmjs.com](https://willuhmjs.com). Last updated 2026-11-26T07:41:05.401Z 
 
 ## Repositories
 - [forgetti (20)](https://github.com/willuhmjs/forgetti) ([homepage](https://willuhmjs.github.io/forgetti/)) - Forget about 3D printer spaghetti with Forgetti, an alternative to traditional 3D print failure detection software.
 - [Quizlet-Exporter (19)](https://github.com/willuhmjs/Quizlet-Exporter) ([homepage](https://willuhmjs.github.io/Quizlet-Exporter)) - Website that exports Quizlet study sets into a variety of file formats. Quizlet to Docx
-- [hintable (15)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
+- [hintable (16)](https://github.com/willuhmjs/hintable) ([homepage](https://hintable.me)) - An exciting word guessing game.
 - [carview (13)](https://github.com/willuhmjs/carview)  - OSINT license plate data by scraping lookup site(s)
 - [gotquestions (8)](https://github.com/willuhmjs/gotquestions)  - gotquestions is a package designed to scrape the gotquestions.org api
 - [Dapper (7)](https://github.com/willuhmjs/Dapper)  - A Discord bot to allow members to give dap to other members in your Discord server and earn social points towards your server's dap leaderboard.
@@ -68,7 +68,6 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [anniversary (0)](https://github.com/willuhmjs/anniversary) ([homepage](https://willuhmjs.github.io/anniversary/)) - Keep track of anniversaries for important dates, such as birthdays and relationship milestones.
 - [archconfig (0)](https://github.com/willuhmjs/archconfig)  - No description provided.
 - [aws-s3-demo (0)](https://github.com/willuhmjs/aws-s3-demo) ([homepage](https://willuhmjs.github.io/aws-s3-demo/)) - No description provided.
-- [backshots (0)](https://github.com/willuhmjs/backshots) ([homepage](https://willuhmjs.github.io/backshots/)) - Kubernetes-native backups that land as plain files on your NAS. App-consistent Postgres/SQLite, hardlink snapshots, retention, restore tests.
 - [bambuddy (0)](https://github.com/willuhmjs/bambuddy) ([homepage](http://bambuddy.cool/)) - Your Bambu Lab. No Cloud. Your Rules.  Self-hosted command center for Bambu Lab — from one A1 to an entire print farm. 
 - [bambuddy-wiki (0)](https://github.com/willuhmjs/bambuddy-wiki) ([homepage](http://wiki.bambuddy.cool/)) - Wiki for Bambuddy - https://github.com/maziggy/bambuddy
 - [bible-web (0)](https://github.com/willuhmjs/bible-web)  - A self-hosted Bible reader with modern styling
@@ -94,6 +93,7 @@ This is an auto generated list of my repositories. Check out [https://willuhmjs.
 - [gravatar-finder (0)](https://github.com/willuhmjs/gravatar-finder) ([homepage](https://willuhmjs.github.io/gravatar-finder/)) - Generates the gravatar URL for an email address
 - [GraviticFlux (0)](https://github.com/willuhmjs/GraviticFlux) ([homepage](https://willuhmjs.github.io/GraviticFlux/)) - A puzzle-platformer made in Unity.
 - [headlamp (0)](https://github.com/willuhmjs/headlamp) ([homepage](https://headlamp.dev)) - A Kubernetes web UI that is fully-featured, user-friendly and extensible
+- [heirloom (0)](https://github.com/willuhmjs/heirloom)  - Kubernetes-native, deduplicated backups that land on your NAS as plain restic repositories. No server, no object store, no keys — just a policy, an NFS share and history that fits.
 - [honion (0)](https://github.com/willuhmjs/honion)  - GPU vanity address generator for Tor v3 onion services. ~1.25e10 candidate addresses/sec on an RTX PRO 6000 Blackwell.
 - [ip-logger (0)](https://github.com/willuhmjs/ip-logger)  - An IP logger CLI written with Deno.
 - [iris (0)](https://github.com/willuhmjs/iris)  - detroit become sveltekit
